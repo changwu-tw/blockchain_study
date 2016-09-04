@@ -45,5 +45,5 @@
  
 ## 影片
 
-- An Intro to State Channels in Depth [[Video](https://www.youtube.com/watch?v=MEL50CVOcH4)] [[slide](https://docs.google.com/presentation/d/1rCgHFFC-YSkbNK_0kfUoiu2lXUloy39bcucdkNFpKd8/edit#slide=id.g115d993a58_1_538)]
+- An Intro to State Channels in Depth [[Video](https://www.youtube.com/watch?v=MEL50CVOcH4)] [[slide](https://docs.google.com/presentation/d/1rCgHFFC-YSkbNK_0kfUoiu2lXUloy39bcucdkNFpKd8/edit#slide=id.g115d993a58_1_538)][[Podcast](https://cointelegraph.com/news/podcast-olaoluwa-osuntokun-lightning-network-deep-dive)]
 - Lightning Network Deep Dive [[Video](https://www.youtube.com/watch?v=tLZc-NLmV20&feature=youtu.be)][[Slide](https://docs.google.com/presentation/d/1OPijcjzadKkbxvGU6VcVnAeSD_DKb7gjnevBcqhPCW0/edit?usp=sharing)]
