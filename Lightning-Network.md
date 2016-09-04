@@ -28,7 +28,6 @@
 
 - [Flare: An Approach to Routing in Lightning Network](http://bitfury.com/content/5-white-papers-research/whitepaper_flare_an_approach_to_routing_in_lightning_network_7_7_2016.pdf)
 
-
 ## 隱私
 
 - [Bolt: Anonymous Payment Channels for Decentralized Currencies](https://eprint.iacr.org/2016/701.pdf)
@@ -44,3 +43,7 @@
 
 - [First Raiden Transaction](https://github.com/raiden-network/raiden/wiki/Raiden-PoC‐0)
  
+## 影片
+
+- An Intro to State Channels in Depth [[Video](https://www.youtube.com/watch?v=MEL50CVOcH4)] [[slide](https://docs.google.com/presentation/d/1rCgHFFC-YSkbNK_0kfUoiu2lXUloy39bcucdkNFpKd8/edit#slide=id.g115d993a58_1_538)]
+- Lightning Network Deep Dive [[Video](https://www.youtube.com/watch?v=tLZc-NLmV20&feature=youtu.be)][[Slide](https://docs.google.com/presentation/d/1OPijcjzadKkbxvGU6VcVnAeSD_DKb7gjnevBcqhPCW0/edit?usp=sharing)]
